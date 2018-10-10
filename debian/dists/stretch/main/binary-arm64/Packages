@@ -1,0 +1,19 @@
+Package: edi
+Version: 0.12.1+deb9
+Architecture: all
+Maintainer: Matthias Luescher <lueschem@gmail.com>
+Installed-Size: 399
+Depends: python3-argcomplete, python3-debian, python3-gnupg, python3-jinja2, python3-packaging, python3-requests, python3-yaml, python3:any (>= 3.5~), ansible (>= 2.1), binfmt-support, debootstrap, liblzma5, openssh-client, python3-apt (>= 1), qemu-user-static, sudo, zstd
+Recommends: lxd
+Priority: optional
+Section: devel
+Filename: pool/main/e/edi/edi_0.12.1+deb9_all.deb
+Size: 57216
+SHA256: f6d6de7b27cf3746b58a213630f06bb9ea9947ba3bfef973d0bb5b1d5230a69f
+SHA1: 3be12f35795d37acc6be18f006d92bfc25df9339
+MD5sum: 2c0e455d69346f6c39dd97261fdf70ae
+Description: Embedded Development Infrastructure - edi
+ Driven by the DevOps mindset edi helps you to streamline your embedded
+ development infrastructure. To achieve this goal, edi leverages top-notch
+ open source technologies such as Debian, Ansible and LXD.
+

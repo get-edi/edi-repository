@@ -1,0 +1,5 @@
+Component: main
+Origin: get-edi.github.io/edi-repository/debian
+Label: get-edi.github.io/edi-repository/debian
+Architecture: arm64
+Description: edi packages for Debian.

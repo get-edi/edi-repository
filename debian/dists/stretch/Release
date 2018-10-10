@@ -1,0 +1,55 @@
+Origin: get-edi.github.io/edi-repository/debian
+Label: get-edi.github.io/edi-repository/debian
+Codename: stretch
+Date: Wed, 10 Oct 2018 20:12:14 UTC
+Architectures: i386 amd64 armhf arm64
+Components: main
+Description: edi packages for Debian.
+MD5Sum:
+ ee08d4dc6f0dbeea8771227dd1b9cfae 931 main/binary-i386/Packages
+ 42194c632203c1214bf11c83988104c7 613 main/binary-i386/Packages.gz
+ b1a727b937e420d41327f3a51d8ef17e 168 main/binary-i386/Release
+ ee08d4dc6f0dbeea8771227dd1b9cfae 931 main/binary-amd64/Packages
+ 42194c632203c1214bf11c83988104c7 613 main/binary-amd64/Packages.gz
+ 44eaf5f62096d7455c620342371ffc03 169 main/binary-amd64/Release
+ ee08d4dc6f0dbeea8771227dd1b9cfae 931 main/binary-armhf/Packages
+ 42194c632203c1214bf11c83988104c7 613 main/binary-armhf/Packages.gz
+ f738a0149c6b2ed34cca9812e87f8cdf 169 main/binary-armhf/Release
+ ee08d4dc6f0dbeea8771227dd1b9cfae 931 main/binary-arm64/Packages
+ 42194c632203c1214bf11c83988104c7 613 main/binary-arm64/Packages.gz
+ a7c5e37df3c694f44302d1ba474d24b6 169 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 641bf57dd812919d7b4d44a3dc442e0a 170 main/source/Release
+SHA1:
+ 2a88fb5b953aee1429112f7ee47aa1cdef543fcd 931 main/binary-i386/Packages
+ 8a76b699c4283e048506fed1c4c8ac97910a7863 613 main/binary-i386/Packages.gz
+ 20d2d38875904bc40af7be7fa2f8361d87a635c5 168 main/binary-i386/Release
+ 2a88fb5b953aee1429112f7ee47aa1cdef543fcd 931 main/binary-amd64/Packages
+ 8a76b699c4283e048506fed1c4c8ac97910a7863 613 main/binary-amd64/Packages.gz
+ 5ca25aa548393276d5bd76d52a6a9118f69d7a36 169 main/binary-amd64/Release
+ 2a88fb5b953aee1429112f7ee47aa1cdef543fcd 931 main/binary-armhf/Packages
+ 8a76b699c4283e048506fed1c4c8ac97910a7863 613 main/binary-armhf/Packages.gz
+ a30d7c9b18e4638fad8f3a972aa51bc9ef2dcc94 169 main/binary-armhf/Release
+ 2a88fb5b953aee1429112f7ee47aa1cdef543fcd 931 main/binary-arm64/Packages
+ 8a76b699c4283e048506fed1c4c8ac97910a7863 613 main/binary-arm64/Packages.gz
+ 1acbf00373190af312889aa1a92de3f8c4f0d070 169 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 90a81cead22cbf40ddef8d4dce1bdf594c4e5260 170 main/source/Release
+SHA256:
+ d2d90f743f44f3d991de61cab20c6b887992d5e0180ab9ab16d3cac444546412 931 main/binary-i386/Packages
+ dbe060a0dab1aa25ab5e948cdcdbd799c9f88d3834e8892be5ffb24920b23379 613 main/binary-i386/Packages.gz
+ c2e4ff47a7068bce19d156e8199d267432afebf13d360150582ba0f0f808d69b 168 main/binary-i386/Release
+ d2d90f743f44f3d991de61cab20c6b887992d5e0180ab9ab16d3cac444546412 931 main/binary-amd64/Packages
+ dbe060a0dab1aa25ab5e948cdcdbd799c9f88d3834e8892be5ffb24920b23379 613 main/binary-amd64/Packages.gz
+ f73946ee98ae121cf9f3ded3ee0e9690e5659db49f0fada68b2ed065d5b3e239 169 main/binary-amd64/Release
+ d2d90f743f44f3d991de61cab20c6b887992d5e0180ab9ab16d3cac444546412 931 main/binary-armhf/Packages
+ dbe060a0dab1aa25ab5e948cdcdbd799c9f88d3834e8892be5ffb24920b23379 613 main/binary-armhf/Packages.gz
+ fb3f447085c68742982c664b182a431e98e7cb572394b34a0fd96168814a2a58 169 main/binary-armhf/Release
+ d2d90f743f44f3d991de61cab20c6b887992d5e0180ab9ab16d3cac444546412 931 main/binary-arm64/Packages
+ dbe060a0dab1aa25ab5e948cdcdbd799c9f88d3834e8892be5ffb24920b23379 613 main/binary-arm64/Packages.gz
+ cfc97a48cc98889c759e41f1e2f703e01c5cb672eb4c04e85112c9756411ca38 169 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ d24ed3bc7e6ef7c691e74e00fcbe4b4e243dbc7aec9627c13161aecc49341720 170 main/source/Release
