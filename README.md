@@ -7,7 +7,7 @@ To install edi on Debian stretch use the following commands to add the edi repos
 ```bash
 sudo apt install apt-transport-https
 wget -qO - https://get-edi.github.io/edi-repository/debian/repo.key | sudo apt-key add -
-sudo echo "deb https://get-edi.github.io/edi-repository/debian stretch main" > /etc/apt/sources.list.d/edi-repository.list
+echo "deb https://get-edi.github.io/edi-repository/debian stretch main" | sudo tee /etc/apt/sources.list.d/edi-repository.list
 sudo apt update
 ```
 
