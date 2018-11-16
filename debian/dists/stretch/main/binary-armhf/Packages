@@ -18,18 +18,18 @@ Description: Embedded Development Infrastructure - edi
  open source technologies such as Debian, Ansible and LXD.
 
 Package: edi-boot-shim
-Version: 0.3.0+deb9
+Version: 0.3.1+deb9
 Architecture: all
 Maintainer: Matthias Luescher <lueschem@gmail.com>
 Installed-Size: 25
 Depends: u-boot-tools
 Priority: optional
 Section: devel
-Filename: pool/main/e/edi-boot-shim/edi-boot-shim_0.3.0+deb9_all.deb
-Size: 4488
-SHA256: 2ea678dd5fb92303545a51f82e0cf0575b5370051a4e651cbd9300f08e21176e
-SHA1: 04be60ffd9ba889aa4b224d04a0b266416d35e1c
-MD5sum: a29bf905f64ef2a8888778e23456e78c
+Filename: pool/main/e/edi-boot-shim/edi-boot-shim_0.3.1+deb9_all.deb
+Size: 4602
+SHA256: 0ae10a0afb678d65703767bace92a8e3aaf925964838c6f95e420c12692b36e1
+SHA1: 71183f84413ff2be7c043bb308ad87c759543432
+MD5sum: d82d916463404ccb5f9fe57866c931ba
 Description: Embedded Development Infrastructure Boot Shim
  Small utility that helps updating the u-boot boot configuration
  without copying around initial ramdisks and kernels.
