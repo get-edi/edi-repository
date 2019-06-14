@@ -5,3 +5,12 @@ Architectures: i386 amd64 armhf arm64 source
 Components: main
 Description: edi packages for Debian.
 SignWith: F9EC88BC
+
+Origin: get-edi.github.io/edi-repository/debian
+Label: get-edi.github.io/edi-repository/debian
+Codename: buster 
+Architectures: i386 amd64 armhf arm64 source
+Components: main
+Description: edi packages for Debian.
+SignWith: F9EC88BC
+

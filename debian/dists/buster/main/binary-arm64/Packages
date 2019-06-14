@@ -1,0 +1,17 @@
+Package: edi-boot-shim
+Version: 0.6.1+deb10
+Architecture: all
+Maintainer: Matthias Luescher <lueschem@gmail.com>
+Installed-Size: 35
+Depends: u-boot-tools
+Priority: optional
+Section: devel
+Filename: pool/main/e/edi-boot-shim/edi-boot-shim_0.6.1+deb10_all.deb
+Size: 5540
+SHA256: 8487854c866f58b64b7c7d32ebed68ed21581fdbeed396e6d896635baace14cf
+SHA1: 9e2e97927b3a6e773d0c7d5c84d082df0fb91d9c
+MD5sum: 639046b8c27a5bfc1456bf11bb3bb059
+Description: Embedded Development Infrastructure Boot Shim
+ Small utility that helps updating the u-boot boot configuration
+ without copying around initial ramdisks and kernels.
+
